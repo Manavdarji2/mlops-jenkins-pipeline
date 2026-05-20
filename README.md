@@ -19,7 +19,7 @@
 
 ### Installation
 ```bash
-git clone [https://github.com/Manavdarji2/mlops-jenkins-pipeline](https://github.com/Manavdarji2/mlops-jenkins-pipeline)
+git clone https://github.com/manav-darji-aiml/mlops-jenkins-pipeline
 cd mlops-jenkins-pipeline
 pip install -r requirements.txt
 
@@ -70,7 +70,7 @@ Pull requests welcome. Open an issue first for major changes.
 
 ## Author
 
-Manav Darji — [@Manavdarji2](https://github.com/Manavdarji2)
+Manav Darji — [@manav-darji-aiml](https://github.com/manav-darji-aiml)
 Topics: python  jenkins  mlops  ci-cd  machine-learning  devops  automation  model-deployment  jenkinsfile
 
 ```
